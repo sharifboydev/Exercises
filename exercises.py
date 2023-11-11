@@ -259,8 +259,3 @@
 # print(friends)
 # print('friends')
 # friends.remove("Masur")
-
-
-# Ro'yxatning oxiriga, boshiga va o'rtasiga yangi ismlar qo'shing.
-# Yangi mehmonlardeb nomlangan bo'sh ro'yxat yarating. .pop() va .append() metodlari
-# yordamida mehmonga kelgan do'stlaringizning ismini friends ro'yxatidan sug'urib olib, mehmonlar ro'yxatiga qo'shing.
